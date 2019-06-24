@@ -1,10 +1,8 @@
 import { IClassNameProps } from '@bem-react/core'
+import { cn } from '@bem-react/classname';
 
 export interface IButtonProps extends IClassNameProps {
-  text: string;
-
-  // the following is the list of all modifiers:
-
-  type?: 'link';
-  theme?: 'action';
+  tag?: string;
 }
+
+export const cnButton = cn('Button');

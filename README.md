@@ -8,5 +8,7 @@
 
 ## Bem-react
 
+- https://github.com/bem/bem-react/tree/master/packages/core
+- [bem-react/packages/core 2.0.1](https://github.com/bem/bem-react/tree/master/packages/core)
 - [core / bem-react / Технологии / БЭМ](https://ru.bem.info/technologies/bem-react/core/)
 - [bem/bem-react: A set of tools for developing user interfaces using the BEM in React](https://github.com/bem/bem-react)
